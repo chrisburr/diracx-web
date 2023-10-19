@@ -1,7 +1,7 @@
 {
-  "name": "diracx-webapp",
-  "version": "0.1.0",
-  "private": true,
+  "name": "diracx-web",
+  "version": "0.0.1",
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
